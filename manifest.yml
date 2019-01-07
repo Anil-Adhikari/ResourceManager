@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: resource-manager
+  - name: resourcemanager
     buildpacks: java_buildpack
     path: build/libs/resource-manager-0.0.1-SNAPSHOT.jar
     services:
